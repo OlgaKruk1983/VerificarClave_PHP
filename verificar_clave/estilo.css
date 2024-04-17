@@ -1,0 +1,16 @@
+body{
+    background-color: gray;
+    height: 100%;
+
+}
+
+#form{
+    border: 2px solid blue;
+    width: 400px;
+    background-color: linen;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
